@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smentry Surveillance App & some personal projects.<br><br>🌱 I’m currently learning Firebase & Backend Technologies<br><br>❓ ReactJS is the best thing ever happened for web development.<br><br>⚡ Fun fact: Can't format without prettier & I hate diagrams (software documentations)
+🔭 I’m currently working on Smentry Surveillance App & some personal projects.<br><br>🌱 I’m currently learning Firebase & Backend Technologies<br><br>❓ ReactJS is the best thing ever happened for web development.<br><br>⚡ Fun fact: .. (software documentations)
 
 
 ## 🌐 Socials:
