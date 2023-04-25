@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smentry Surveillance App & some personal projects.<br><br>🌱 I’m currently learning Firebase & Backend Technologies<br><br>❓ ReactJS is the best thing ever happened for web development.<br><br>⚡ Fun fact: .. (software documentations)
+Software Engineer | CS Graduate | Freelancer | NextJS | TypeScript | AWS | Jr.
 
 
 ## 🌐 Socials:
