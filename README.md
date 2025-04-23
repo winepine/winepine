@@ -1,3 +1,3 @@
 # Basit Saeed
 
-Mid Level Software Engineer | Freelancer | NextJS | TypeScript | Supabase | Prisma
+Startup Software Engineer | Zero Health (YC)
